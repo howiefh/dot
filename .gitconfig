@@ -1,0 +1,14 @@
+[user]
+	name = Feng Hao
+	email = howiefh@gmail.com
+[color]
+	ui = auto
+[alias]
+	st = status
+	ci = commit
+	br = branch
+	co = checkout
+	df = diff
+	lol = log --oneline
+[credential]
+	helper = cache --timeout=3600

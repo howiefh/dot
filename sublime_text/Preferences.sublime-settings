@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Solarized (Dark) (SL).tmTheme",
+	"ignored_packages":
+	[
+	],
+	"scroll_past_end": true,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true,
+                "sublimelinter": "save-only",
+                "sublimelinter_popup_errors_on_save": true,
+                "sublimelinter_executable_map": {
+                    "html": "/usr/bin/tidy"
+                }
+}
