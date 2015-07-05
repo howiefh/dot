@@ -17,3 +17,6 @@ export PATH=$PATH:/home/fh/apps/nodejs/bin
 export M2_HOME=/home/fh/apps/maven
 export M2=${M2_HOME}/bin
 export PATH=$PATH:${M2}
+
+export GRADLE_HOME=/home/fh/apps/gradle
+export PATH=$GRADLE_HOME/bin:$PATH
